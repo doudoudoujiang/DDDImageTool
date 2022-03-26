@@ -1,0 +1,7 @@
+assets
+node_modules
+test
+src
+.babelrc
+.gitignore
+*.json
